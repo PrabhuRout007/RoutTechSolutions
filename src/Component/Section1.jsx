@@ -10,9 +10,12 @@ const Section1 = () => {
             Professional IT Solutions Services for Your Needs
           </h2>
           <p style={{ fontSize: "16px", lineHeight: "1.5" }}>
-            Welcome to RoutTech Solutions, where technology meets innovation! We are a leading IT solutions company
-            dedicated to helping businesses harness the power of technology to drive growth and achieve success in the
-            digital era.
+          We offer comprehensive IT solutions, specializing in copy and 
+          content writing. Additionally, we provide skilled employees to companies, 
+          ensuring a professional and efficient workforce. Our services encompass a 
+          wide range of IT needs, while our expertise in copy and content writing ensures 
+          impactful and persuasive communication. Trust us to deliver exceptional 
+          IT solutions and provide proficient employees that meet your company's requirements
           </p>
           <button className="btn btn-primary btn-sm mt-3 px-4">Learn More</button>
         </div>

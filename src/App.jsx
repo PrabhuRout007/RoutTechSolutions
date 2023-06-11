@@ -4,8 +4,6 @@ import './App.css'
 import NavBar from './Component/NavBar'
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Users from './Component/Users'
-import Save from './Component/Save'
 import Section1 from './Component/Section1'
 import Services from './Component/Services'
 import StayInTouch from './Component/StayInTouch'
